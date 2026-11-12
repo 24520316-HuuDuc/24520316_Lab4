@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #080b12;
+  color: #f5f5f5;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
